@@ -23,7 +23,7 @@ let simulationState = {
 };
 
 // API Base URL - Change this if your Flask server runs on a different port
-const API_URL = 'http://localhost:5000/api';
+const API_URL = '/api';
 
 // Chart instances
 let dailyCasesChart = null;
